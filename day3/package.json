@@ -1,0 +1,16 @@
+{
+  "name": "rucksack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/rucksack.ts",
+  "scripts": {
+    "dev": "ts-node ./src/rucksack.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^7.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.10"
+  }
+}
